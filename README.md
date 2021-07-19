@@ -1,0 +1,20 @@
+- [] with/without monitor
+- [] dual monitor?
+- [] mounting e.g. vesa
+- [] must have two power outlets (rpi + monitor)
+- [] mount rpi to monitor?
+- [] must provide at least one wlan network
+- [] combinations to test
+  - [] aviation
+  - [] gaf
+  - [] taf (1 or more airports)
+  - [] metar/speci (1 or more airports)
+  - [] synoptic
+  - [] grid point wind (see BOM)
+  - [] civil twilight (must provide lat/lon or airport)
+  - [] subscribe to calendar for document updates e.g. AIP, ERSA
+  - [] moon phase
+- [] other shit
+  - [] calendars
+  - [] etc etc lots of stuff, what works well?
+
